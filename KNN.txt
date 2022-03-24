@@ -1,0 +1,7 @@
+
+1. KNN- Dataframe -dataset-training set and K-Value-3/5/7
+2. Read test data
+3. Find distance e.distance
+4. Sort value(distance)
+5. based on k choose value
+6. Majory of the class label.
